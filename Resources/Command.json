@@ -1,0 +1,41 @@
+{
+	"weapons":[
+	{
+	"id":0,
+	"name":"Light Rifle",
+	"type":[
+	"long-range",
+	"2-handed"
+	],
+	"mag_size":6,
+	"power":32,
+	"slug":"light_rifle"
+	},
+	{
+	"id":0,
+	"name":"Light Rifle",
+	"type":[
+	"long-range",
+	"2-handed"
+	],
+	"mag_size":6,
+	"power":32,
+	"slug":"light_rifle"
+	}
+	],
+	"Hats":[
+		{
+			"id":0,
+			"name":"Large Fedora",
+			"special":true,
+			"slug":"large_ferdora"
+		},
+
+		{
+			"id":1,
+			"name":"Large Fedora",
+			"special":false,
+			"slug":"large_ferdora"
+		}
+	]
+}

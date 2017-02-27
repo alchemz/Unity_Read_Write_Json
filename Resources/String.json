@@ -1,0 +1,16 @@
+{
+	"application":{
+		"Name":"The Grand Adventure",
+		"Version":"0.024"
+	},
+	"UI":{
+		"level":"Level Select",
+		"play_button":"Play",
+		"Setting":"Setting"
+	},
+	"level":{
+		"level_one":"The big tree",
+		"level_two":"Open Water",
+		"level_name":"Cliff"
+	}
+}
