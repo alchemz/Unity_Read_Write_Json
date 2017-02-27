@@ -18,7 +18,7 @@ public class RootObject_
     public int Level { get; set; }
     public List<List<int>> Stats { get; set; }
 }
-public class jsonToCs : MonoBehaviour {
+public class ReadJson : MonoBehaviour {
 
     
     private string jsonString;
